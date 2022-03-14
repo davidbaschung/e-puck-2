@@ -1,0 +1,13 @@
+Webots Project File version R2019a
+perspectives: 000000ff00000000fd0000000200000000000003be000003d5fc0100000003fb0000001400540065007800740045006400690074006f00720100000000000003be0000007f00fffffffb0000001e00480074006d006c0052006f0062006f007400570069006e0064006f00770000000000000001790000000000000000fb0000001a0044006f00630075006d0065006e0074006100740069006f006e0000000000ffffffff0000005400ffffff0000000100000254000003d5fc0200000001fb0000000e0043006f006e0073006f006c00650100000016000003d50000005e00ffffff0000011f000003d500000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff000000010000000200000118000000010100000006010000000101
+sceneTreePerspectives: 000000ff0000000100000002000000c00000010f0100000006010000000201
+minimizedPerspectives: 000000ff00000000fd00000002000000000000018a000003d5fc0100000003fb0000001400540065007800740045006400690074006f007201000000000000018a0000007f00fffffffb0000001e00480074006d006c0052006f0062006f007400570069006e0064006f00770000000000000001790000000000000000fb0000001a0044006f00630075006d0065006e0074006100740069006f006e0000000000ffffffff0000005400ffffff0000000100000209000003d5fc0200000001fb0000000e0043006f006e0073006f006c00650100000016000003d50000005e00ffffff0000039e000003d500000001000000020000000100000008fc00000000
+maximizedDockId: -1
+centralWidgetVisible: 1
+selectionDisabled: 0
+viewpointLocked: 0
+orthographicViewHeight: 1
+textFiles: 4 "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/2 robotique/serie2/controllers/S01_lover/S01_lover.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/2 robotique/serie2/controllers/S01_explorer/S01_explorer.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/3 robotique/epuckAPI/controllers/S03_camera_record/S03_camera_record.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/3 robotique/epuckAPI/controllers/S03_color_recognition/S03_color_recognition.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/3 robotique/epuckAPI/controllers/S03_alternative/S03_alternative.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/3 robotique/epuckAPI/controllers/S03_alternative_core/S03_alternative_core.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/3 robotique/epuckAPI/controllers/S03_alternative_sam/S03_alternative_sam.c" "../../../../../../../../../Users/David Baschung/Documents/UNI/Cours/Robotique/séries/3 robotique/epuckAPI/controllers/S03_simul/S03_simul.c"
+renderingDevicePerspectives: 1:camera;1;0.01875;0;0
+renderingDevicePerspectives: 1(2):camera;1;0.01875;0;0
