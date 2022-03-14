@@ -2,7 +2,7 @@
 > Two projects to control little robots
 
 The e-puck 2 robots possess ground color, wall proximity sensors and a camera.
-We used them in 2 projects to follow lines, walls, detect areas and give them goal destinations.
+We used them in 2 projects to follow lines, walls, detect shapes, areas and give them goal destinations.
 
 <h3>What I learned</h3>
 <ul>
